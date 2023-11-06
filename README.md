@@ -42,7 +42,7 @@ THE MAIN COMPONENTS OF DASHBOARD ARE
 
 4. Overall Analysis
 ```
-5. TOP 5 STATES DATA: Here i have displayed the top 5 states data for the following
+5. TOP 5 STATES DATA: Here i have displayed the top 5 states dataframe and a bar graph for the corresponding dataframes for following analysis
 ```
 1. States with top 5 Registered users
 
