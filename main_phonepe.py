@@ -633,3 +633,7 @@ with col4:
     st.plotly_chart(fig13, use_container_width = True)
 
 
+st.markdown("<h2 style='text-align: center; color: grey;'>Thank You..!!! </h2>", unsafe_allow_html=True)
+
+
+# ================================================ END =====================================================
