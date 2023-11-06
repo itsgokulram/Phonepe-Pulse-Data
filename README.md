@@ -2,7 +2,6 @@
 
 I have created a dashboard to visualize Phonepe pulse Github repository data(https://github.com/PhonePe/pulse) using Streamlit and Plotly in Python
 
-``` DATA EXTRACTION```
 Data Extraction: Clone the data from pulse github repo. Then extract all the data from json files present in all the corresponding folders and form respective dataframes for the visualization purpose. 
 
 THE MAIN COMPONENTS OF DASHBOARD ARE
